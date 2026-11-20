@@ -1,0 +1,9 @@
+space_id,type,zone
+A-01,accessible,North
+A-02,accessible,South
+E-01,ev,North
+E-02,ev,South
+S-01,standard,North
+S-02,standard,North
+S-03,standard,South
+S-04,standard,South
