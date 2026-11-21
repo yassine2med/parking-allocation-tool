@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="parking-allocation-tool" width="100%"></p>
+
 # parking-allocation-tool
 
 Assigning a limited number of parking spaces is a fairness problem: people with an accessibility need must be served first, EV drivers need chargers, and everyone else should rotate fairly. This repo reads a list of spaces and a list of requests, applies a transparent points score, and prints who gets which space and who goes on the waitlist.
