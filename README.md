@@ -2,6 +2,8 @@
 
 # parking-allocation-tool
 
+[![CI](https://github.com/yassine2med/parking-allocation-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/parking-allocation-tool/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Assigning a limited number of parking spaces is a fairness problem: people with an accessibility need must be served first, EV drivers need chargers, and everyone else should rotate fairly. This repo reads a list of spaces and a list of requests, applies a transparent points score, and prints who gets which space and who goes on the waitlist.
 
 ![Screenshot](docs/screenshot.png)
